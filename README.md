@@ -1,5 +1,5 @@
 # Password Generator with Python
-Simple password generator write in Pytohn.
+Simple password generator write in Python.
 
 ---
 ### How to Run
