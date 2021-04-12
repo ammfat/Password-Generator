@@ -3,9 +3,8 @@ Simple password generator write in Python.
 
 ---
 ### How to Use:
+Simply run `./pynerate.py [-h] [-n LENGTH] [-v]` on your terminal.
 ```
-pynerate.py [-h] [-n LENGTH] [-v]
-
 optional arguments:
   -h, --help            show this help message and exit
   -n LENGTH, --length LENGTH
