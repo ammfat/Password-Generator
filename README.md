@@ -4,4 +4,4 @@ Simple password generator write in Python.
 ---
 ### How to Run
 
-Use `python pynerate.py` or `./pynerate.py`
+Simply run `python pynerate.py` or `./pynerate.py` on your terminal.
